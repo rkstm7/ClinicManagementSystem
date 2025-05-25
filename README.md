@@ -1,4 +1,7 @@
-# Clinic Management System
+# ClinicManagementSystem
+![Clinic Dashboard](dashboard.png)
+
+
 
 A web-based Clinic Management System built with Flask and SQLAlchemy to manage patients, doctors, appointments, and visits efficiently.
 
@@ -34,5 +37,14 @@ A web-based Clinic Management System built with Flask and SQLAlchemy to manage p
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/rkstm7/ClinicManagementSystem.git
+   git clone https://github.com/Roymahi/ClinicManagementSystem.git
    cd ClinicManagementSystem
+   ```
+
+Contact
+Contributors: Mahi Roy
+GitHub: https://github.com/Roymahi
+Email: snortsniper16@gmail.com
+Contributor: Rohit Kumar
+GitHub: https://github.com/rkstm7
+Email: rkstm9@gmail.com
